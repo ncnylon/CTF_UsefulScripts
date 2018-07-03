@@ -3,8 +3,11 @@ Last Updated: 2018年07月 3日 下午 05:07:30
 
 ##Prerequires:
 Python 3.6.x
+venv
 
 ##Install requirements:
+#python -m venv .venv
+#python .venv\Scripts\Activate.bat
 #pip install -r requirements.txt
 
 ##Usefull scripts:
